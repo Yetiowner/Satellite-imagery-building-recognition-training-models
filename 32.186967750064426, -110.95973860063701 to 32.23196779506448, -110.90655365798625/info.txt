@@ -1,0 +1,5 @@
+Start lat/lon: 32.186967750064426, -110.95973860063701
+End lat/lon: 32.23196779506448, -110.90655365798625
+Time inserted: 15/04/2022 17:31:04
+Area covered: -24993816.86m^2
+Address: 2640, East 20th Street, Arroyo Chico, Tucson, Pima County, Arizona, 85716, United States
