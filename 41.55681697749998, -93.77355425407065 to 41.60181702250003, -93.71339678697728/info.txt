@@ -1,0 +1,5 @@
+Start lat/lon: 41.55681697749998, -93.77355425407065
+End lat/lon: 41.60181702250003, -93.71339678697728
+Time inserted: 15/04/2022 16:44:42
+Area covered: -24991293.00m^2
+Address: 579, 29th Street, Fairmeadows, West Des Moines, Polk County, Iowa, 50265, United States
