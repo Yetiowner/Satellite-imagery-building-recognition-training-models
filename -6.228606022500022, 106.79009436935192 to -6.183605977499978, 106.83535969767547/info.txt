@@ -1,0 +1,5 @@
+Start lat/lon: -6.228606022500022, 106.79009436935192
+End lat/lon: -6.183605977499978, 106.83535969767547
+Time inserted: 16/04/2022 15:27:00
+Area covered: 25001067.62m^2
+Address: RW 06, Karet Tengsin, Tanah Abang, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10220, Indonesia
