@@ -3,3 +3,4 @@ End lat/lon: 34.117005022500024, -118.07198157739865
 Time inserted: 16/04/2022 16:27:48
 Area covered: 24993356.20m^2
 Address: 113, El Monte Street, San Gabriel, Los Angeles County, California, 91776, United States
+Warning: Extra large file, can only be found at https://www.dropbox.com/s/9yx2atkske3tmc5/model_weights5.zip?dl=1
