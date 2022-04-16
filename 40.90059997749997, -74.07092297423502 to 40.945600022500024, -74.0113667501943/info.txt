@@ -1,6 +1,6 @@
 Start lat/lon: 40.90059997749997, -74.07092297423502
 End lat/lon: 40.945600022500024, -74.0113667501943
 Time inserted: 13/04/2022 15:57:47
-Area covered: -24991491.79m^2
+Area covered: 24991491.79m^2
 Address: 61, Irene Court, Cherry Hill, River Edge, Bergen County, New Jersey, 07661, United States
 Warning: Extra large file, can only be found at https://www.dropbox.com/s/ewf0hycb58hte8n/model_weights.zip?dl=1
