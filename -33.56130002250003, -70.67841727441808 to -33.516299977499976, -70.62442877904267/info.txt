@@ -1,0 +1,5 @@
+Start lat/lon: -33.56130002250003, -70.67841727441808
+End lat/lon: -33.516299977499976, -70.62442877904267
+Time inserted: 16/04/2022 14:28:29
+Area covered: 25006509.31m^2
+Address: 8825, La Granja, La Cisterna, Provincia de Santiago, Región Metropolitana de Santiago, 7970670, Chile
