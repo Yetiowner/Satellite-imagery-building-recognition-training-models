@@ -3,3 +3,4 @@ End lat/lon: 32.677331045000045, 12.731717728966762
 Time inserted: 30/04/2022 13:56:06
 Area covered: 99949734.44m^2
 Address: ترفاس, الزاوية, ليبيا
+Warning: Extra large file, can only be found at https://www.dropbox.com/s/uxy13hk08kefms2/model_weights6.zip?dl=1
