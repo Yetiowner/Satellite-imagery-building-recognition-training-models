@@ -3,3 +3,4 @@ End lat/lon: 0.0300040225000225, 32.9457130255851
 Time inserted: 30/04/2022 18:37:06
 Area covered: 24999998.71m^2
 Address: Kalungi, Buvuma, Central Region, Uganda
+Warning: Extra large file, can only be found at https://www.dropbox.com/s/0us9tp6meeh31ru/model_weights7.zip?dl=1
