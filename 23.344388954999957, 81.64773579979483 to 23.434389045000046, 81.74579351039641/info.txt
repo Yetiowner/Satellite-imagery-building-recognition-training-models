@@ -3,3 +3,4 @@ End lat/lon: 23.434389045000046, 81.74579351039641
 Time inserted: 07/05/2022 18:09:09
 Area covered: 99966041.55m^2
 Address: Jaitpur Tahsil, Shahdol, Madhya Pradesh, India
+Warning: Extra large file, can only be found at https://www.dropbox.com/s/mkukx5nz8w1zgsy/model_weights8.zip?dl=1
