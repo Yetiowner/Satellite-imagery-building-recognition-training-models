@@ -1,0 +1,5 @@
+Start lat/lon: 2.790945954999955, 32.189406514549255
+End lat/lon: 2.880946045000045, 32.27951699132134
+Time inserted: 08/05/2022 12:27:23
+Area covered: 99996109.52m^2
+Address: Paminmel, Gulu, Northern Region, Uganda
