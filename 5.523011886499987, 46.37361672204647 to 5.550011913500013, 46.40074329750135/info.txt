@@ -3,3 +3,4 @@ End lat/lon: 5.550011913500013, 46.40074329750135
 Time inserted: 08/05/2022 15:53:44
 Area covered: 8999794.45m^2
 Address: Elder, Dhuusamareeb دوسمريب, Dhuusamarreeb دوسمريب, Galgaduud جلجدود, Galmudug غامدوغ, Soomaaliya الصومال
+Warning: Extra large file, can only be found at https://www.dropbox.com/s/c0jyi94htzske8x/model_weights10.zip?dl=1
