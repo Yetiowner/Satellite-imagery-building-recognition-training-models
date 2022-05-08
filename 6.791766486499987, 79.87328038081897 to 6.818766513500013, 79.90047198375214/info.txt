@@ -1,0 +1,5 @@
+Start lat/lon: 6.791766486499987, 79.87328038081897
+End lat/lon: 6.818766513500013, 79.90047198375214
+Time inserted: 08/05/2022 17:06:20
+Area covered: 8999746.95m^2
+Address: Angulana Junction, Thelawala Road, Golumadama Junction, Soysapura, Telawala, කොළඹ දිස්ත්‍රික්කය, බස්නාහිර පළාත, 10390, ශ්‍රී ලංකාව இலங்கை
