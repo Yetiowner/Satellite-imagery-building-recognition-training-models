@@ -3,3 +3,4 @@ End lat/lon: 12.270313022500023, -2.341467966693863
 Time inserted: 19/05/2022 14:39:21
 Area covered: 24997868.99m^2
 Address: Elkan, Route de Sabou, camp fonctionnaire de koudougou, Koudougou, Boulkiemdé, Centre-Ouest, Burkina Faso
+Warning: Extra large file, can only be found at https://www.dropbox.com/s/faqdabertf9bexa/model_weights12.zip?dl=1
